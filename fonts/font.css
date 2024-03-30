@@ -1,0 +1,11 @@
+@font-face {
+  font-family: Byekan;
+  src: url(BYekan/BYekan/BYekan+.ttf);
+}
+
+html,
+body,
+input,
+*,*::after ,*::before {
+  font-family: Byekan;
+}
